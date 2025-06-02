@@ -142,7 +142,7 @@ javascript:(function(){
     eval(code);
 
     console.clear();
-    console.log(`${name} 👺|KHANSYNC Iniciado com sucesso!`);
+    console.log(`${name} iniciado com sucesso!`);
   })();
 
 })();
